@@ -9,4 +9,4 @@ a coupon delivered to their cell phone while driving.
 - [link to full notebook]
 
 ## Links
-- [Jupyter Notebook](./notebook.ipynb)
+- [Jupyter Notebook](./coupon-acceptance-analysis.ipynb)
